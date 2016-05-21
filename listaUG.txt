@@ -1,0 +1,30 @@
+contato1	192.168.0.1
+contato2	192.168.0.2
+contato3	192.168.0.3
+# GRUP1
+	kelly123	192
+	kelly12	192
+	kelly	192
+	kelly123	192
+	kelly12	192
+	kelly	192
+	kelly123	192
+	kelly12	192
+	kelly	192
+	kelly123	192
+	kelly12	192
+	kelly	192
+# GRUP2
+	kelly	192
+	kelly	192
+	kelly	192
+	kelly	192
+contato1	192.168.0.1
+contato2	192.168.0.2
+contato3	192.168.0.3
+contato1	192.168.0.1
+contato2	192.168.0.2
+contato3	192.168.0.3
+contato1	192.168.0.1
+contato2	192.168.0.2
+contato3	192.168.0.3
